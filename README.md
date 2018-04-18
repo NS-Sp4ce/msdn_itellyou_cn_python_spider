@@ -1,5 +1,5 @@
 # msdn_itellyou_cn_spider_python
-msdn.itellyou.cn爬虫python版
+msdn.itellyou.cn爬虫python版【需要mysql】
 
 # 数据库配置
 *conn=pymysql.connect(host='localhost', port=3306, user='root', password="", db='smzdm', charset='utf8')*

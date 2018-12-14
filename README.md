@@ -5,15 +5,15 @@ msdn.itellyou.cn爬虫python版【需要mysql】
 *conn=pymysql.connect(host='localhost', port=3306, user='root', password="", db='smzdm', charset='utf8')*
 
 > host:数据库IP
-
+>
 > port：端口
-
+>
 > user:用户名
-
+>
 > password:密码
-
+>
 > db:数据库名称
-
+>
 > charset:数据库编码
 
 # 创建数据表（默认为itellyou_copy1）
